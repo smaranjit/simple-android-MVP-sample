@@ -1,8 +1,10 @@
 package com.smaranjit.mymvpsample;
 
-/* This Class could be treated as contractor for Model, View and Presenter Layer*/
+/* This Interface could be treated as contractor for Model, View and Presenter Layer*/
 public interface LoginContract {
-    //This Interface is used to interact with view layer, avoid interaction with view layer directly
+    /*This Interface is used to interact with view layer, avoid interaction with view layer directly
+    Implement this from Activity Class or Fragment View layer
+     */
     interface LoginView {
         void showProgress();
 
