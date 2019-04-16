@@ -1,4 +1,4 @@
-package com.smaranjit.mymvpsample;
+package com.smaranjit.mymvpsample.login;
 
 /* This Interface could be treated as contractor for Model, View and Presenter Layer*/
 public interface LoginContract {

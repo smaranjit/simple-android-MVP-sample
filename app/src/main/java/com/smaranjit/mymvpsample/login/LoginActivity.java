@@ -1,4 +1,4 @@
-package com.smaranjit.mymvpsample;
+package com.smaranjit.mymvpsample.login;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -8,6 +8,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ProgressBar;
 import android.widget.TextView;
+
+import com.smaranjit.mymvpsample.R;
 
 public class LoginActivity extends AppCompatActivity implements LoginContract.LoginView {
 

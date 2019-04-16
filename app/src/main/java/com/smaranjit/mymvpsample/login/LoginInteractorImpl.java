@@ -1,4 +1,4 @@
-package com.smaranjit.mymvpsample;
+package com.smaranjit.mymvpsample.login;
 
 public class LoginInteractorImpl implements LoginContract.LoginInteractor {
    //for complex code implement LoginContract.LoginInteractor separately, otherwise we can implement it from Presenter Implementation

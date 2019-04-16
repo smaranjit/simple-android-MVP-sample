@@ -1,4 +1,4 @@
-package com.smaranjit.mymvpsample;
+package com.smaranjit.mymvpsample.login;
 
 public class LoginPresenterImpl implements LoginContract.LoginPresenter {
     LoginContract.LoginView mView;
